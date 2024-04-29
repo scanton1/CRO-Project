@@ -1,6 +1,8 @@
 # CRO-Project
 Work from Simon Anton for the CRO desalination project. 
 
+NCSU email will be gone soon. You can email me at scanton0101@gmail.com for questions. 
+
 ## Goal
 Give an overview of how the code and simulations work. The document will first discuss each UDF in the "cro.c" file and then how to run the simulations.
 
